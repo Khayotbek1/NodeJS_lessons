@@ -1,0 +1,1 @@
+// Iyun oyidagi malumotlar kiritilsin

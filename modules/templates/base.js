@@ -1,0 +1,1 @@
+// Bazadagi malumotlar kiritilsin
