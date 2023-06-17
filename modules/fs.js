@@ -4,7 +4,7 @@ const path = require('path')
 // fs.mkdir(path.join(__dirname, 'templates'), err => {
 //     if (err) throw new Error()
 //     console.log('Folder was create successfully');
-// })
+// })\
 // fs.mkdir(path.join(__dirname, 'notes'), err => {
 //     if (err) throw new Error()
 //     console.log('Folder was create successfully');
