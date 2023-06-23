@@ -33,3 +33,23 @@ function yih(n) {
     return n * (n + 1) / 2
 }
 console.log(yih(10));
+
+
+const cars = ['gentra', 'nexia', 'spark', 'damas']
+const newCars = []
+
+cars.forEach((name) => {
+    const newName = name.charAt().toUpperCase() + name.slice(1).toLowerCase() + ' uz';
+    newCars.push(newName)
+})
+console.log(newCars);
+
+const students = ['Khayot', 'Yunus', 'Yusuf', 'Abror']
+const newStudents = []
+
+students.forEach((name) => {
+    const newName = name.charAt().toLowerCase() + name.slice(1).toUpperCase() + 'bek';
+    newStudents.push(newName);
+})
+console.log(newStudents);
+
