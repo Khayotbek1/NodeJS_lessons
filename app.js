@@ -54,7 +54,6 @@
 // })
 // console.log(newStudents);
 
-
 //
 // const doctors = ['lor', 'cardio']
 // const newDoctors = []
@@ -101,15 +100,10 @@
 
 // user.watchMovie()
 
-
 //Math object
-const area = 7.5
-console.log(Math.trunc(area));
+// const area = 7.5
+// console.log(Math.trunc(area));
 
-const randomNumber = Math.trunc(Math.random() * 10) + 1
+// const randomNumber = Math.trunc(Math.random() * 10) + 1
 
-console.log(randomNumber);
-
-
-
-
+// console.log(randomNumber);
